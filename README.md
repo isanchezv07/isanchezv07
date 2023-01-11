@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isac</h1>
 <h3 align="center">A passionate frontend developer from México 🇲🇽</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaco5000" alt="isaco5000" /></a> </p>
-
 - 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **Isanchezv_07@outlook.com**
