@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Isac.<br>- 💻 I'm currently studying at the Instituto de Estudios Superiores de Monterrey. <br>- 📚 Currently I'm learning Java & LabView.<br>- 📫 How to reach me Isanchezv_07@outlook.com
+Hi, I'm Isac.<br>- 💻 I'm currently studying at the Instituto de Estudios Superiores de Monterrey. <br>- 📚 Currently I'm learning Java & LabView for FTC (First Tech Challenge) and FRC (First Robotics Competition) of FIRST (For Inspiration and Recognition of Science and Technology).<br>- 📫 How to reach me Isanchezv_07@outlook.com
 
 
 ## 🌐 Socials:
