@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi, I'm Isac.<br>- 💻 I'm currently studying at the Instituto de Estudios Superiores de Monterrey. <br>- 📚 Currently I'm learning Java & LabView for FTC (First Tech Challenge) and FRC (First Robotics Competition) of FIRST competition(For Inspiration and Recognition of Science and Technology).<br>- 📫 How to reach me Isanchezv_07@outlook.com
 
+<img alt="Coding" width="260" src="monadance.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_isanchezv_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20195354) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@isacsanchez40) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IsacSan81327100) 
@@ -16,5 +17,3 @@ Hi, I'm Isac.<br>- 💻 I'm currently studying at the Instituto de Estudios Supe
 ![](https://github-profile-trophy.vercel.app/?username=Isanchezv07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=Isanchezv07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
